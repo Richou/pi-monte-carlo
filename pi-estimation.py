@@ -14,4 +14,4 @@ while True:
     if distance <= rayon :
         inCircle += 1
     pi = (inCircle / currentOcc) * 4
-    print pi
+    print(pi)
